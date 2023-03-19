@@ -233,6 +233,7 @@ transform: translate(21%);
 .who-image{
   width: 100%;
   height: 400px;
+  margin-top: 50px;
 }
 
 .who-image img{
@@ -243,6 +244,7 @@ transform: translate(21%);
 .who-content{
   width: 100%;
   height: 400px;
+  margin-bottom: 90px;
 }
 
 .who-content h3{
@@ -315,6 +317,7 @@ transform: translate(21%);
   width: 50%;
   height: 600px;
   position: relative;
+  margin-top: 50px;
 }
 
 .who-image img{
@@ -327,6 +330,7 @@ transform: translate(21%);
 .who-content{
   width: 45%;
   height: 600px;
+  margin-bottom: 90px;
 }
 
 .who-content h3{
@@ -413,6 +417,7 @@ transform: translate(21%);
 .who-content{
   width: 45%;
   height: auto;
+  margin-bottom: 90px;
 }
 
 .who-content h3{
